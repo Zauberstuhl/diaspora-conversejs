@@ -1,7 +1,7 @@
 {
-  "name": "diaspora-conversejs",
+  "name": "diaspora_conversejs",
   "description": "Web-based XMPP/Jabber chat client written in javascript for diaspora",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "license": "MPL-2.0",
   "main": [
     "dist/converse-no-jquery-backbone.min.js",
